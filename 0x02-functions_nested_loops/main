@@ -1,0 +1,4 @@
+#include"main.h"
+
+int _putchar(void);int main()
+
